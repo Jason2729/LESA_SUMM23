@@ -1,5 +1,5 @@
-# Sage_GUI
-GUI for sage
+# STM_GUI
+GUI for stm board. Translate raspberry pi to stm for more control and powerful functionality.
 
 ## Data Definition
 __*Target Status*__: Status indicating the measurement validity. It is type `uint8_t` and is one of the member variable of type `VL53L5CX_ResultsData`  
